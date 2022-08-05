@@ -1,0 +1,44 @@
+body
+{
+	background: yellow;
+
+}
+#b2
+{
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lol_question_mark.png/640px-Lol_question_mark.png");
+	background-size: cover;
+	background-position: center;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#p1_n , #p2_n
+{
+	display: inline-block;
+	margin-left: 20px;
+	padding-right: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
